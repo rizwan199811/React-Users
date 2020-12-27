@@ -32,6 +32,7 @@ function App(props) {
         </Switch>
       </div>
     </Router>
+    
   );
 }
 
